@@ -1,0 +1,21 @@
+{
+    "name": "dwkns-vs",
+    "displayName": "dwkns-vs",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dwkns-vs",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dwkns-vs-color-theme.json"
+            }
+        ]
+    }
+}
